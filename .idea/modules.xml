@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jpa-mongodb.iml" filepath="$PROJECT_DIR$/jpa-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-mongodb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-mongodb_main.iml" group="jpa-mongodb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-mongodb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-mongodb_test.iml" group="jpa-mongodb" />
+    </modules>
+  </component>
+</project>
